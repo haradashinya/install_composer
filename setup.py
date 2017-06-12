@@ -4,5 +4,6 @@ setup(name='install_composer',
       description='install composer',
       author='furodrive',
       license='MIT',
+      url='http://github.com/storborg/funniest',
       packages=['install_composer'],
       zip_safe=False)
